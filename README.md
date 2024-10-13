@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior BackEnd developer at Botit
+BackEnd developer at Botit
 
 
 # 💻 Tech Stack:
